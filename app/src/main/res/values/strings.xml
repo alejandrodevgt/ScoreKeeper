@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="tv.visitor.title">visitor</string>
+    <string name="tv.goal.title">goals</string>
+    <string name="tv.score.title">0</string>
+    <string name="tv.fouls.title">fouls</string>
+    <string name="tv.cards.title">cards</string>
+    <string name="btn.goal.title">+1 Goal</string>
+    <string name="btn.foul.title">+1 foul</string>
+    <string name="btn.card.title">+1 card</string>
+    <string name="tv.home.title">home</string>
+    <string name="btn.reset.title">reset</string>
+</resources>
